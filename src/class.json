@@ -1,6 +1,6 @@
 [
   {
-    "title": "FrontEnd개발-준비하기",
+    "title": "수업소개",
     "docUrl": "https://start-fe.surge.sh",
     "links": ["http://start-fe.surge.sh/ready/​"],
     "gitUrl": "https://github.com/ksg0605/start-fe/tree/master/01",
@@ -43,7 +43,7 @@
     "title": ["Quiz1", "Quiz2"],
     "docUrl": "http://begin.js.org/dom/quiz.html",
     "links": [
-      " https://www.youtube.com/watch?v=O6KEIo4uUWA&list=PL-cD8pbS-mXg2Z1Rm9DSmmqsZbysh0wc_&index=5",
+      "https://www.youtube.com/watch?v=O6KEIo4uUWA&list=PL-cD8pbS-mXg2Z1Rm9DSmmqsZbysh0wc_&index=5",
       "http://begin.js.org/dom/quiz.html",
       "https://github.com/advanced-webapps-class/classroom/tree/gh-pages/2021",
       "https://www.ciokorea.com/news/185498",
